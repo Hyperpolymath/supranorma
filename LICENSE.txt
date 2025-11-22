@@ -1,0 +1,199 @@
+Supranorma is dual-licensed under your choice of:
+
+1. MIT License (below)
+2. Palimpsest License v0.8 (below)
+
+You may use this software under the terms of either license.
+
+================================================================================
+MIT LICENSE
+================================================================================
+
+Copyright (c) 2025 Hyperpolymath and contributors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+================================================================================
+PALIMPSEST LICENSE v0.8
+================================================================================
+
+Copyright (c) 2025 Hyperpolymath and contributors
+
+This software is licensed under the Palimpsest License version 0.8.
+
+1. DEFINITIONS
+
+   "Software" refers to the work of authorship made available under this License.
+
+   "You" refers to any individual or legal entity exercising rights under this
+   License.
+
+   "Contribution" refers to any work of authorship that is submitted to the
+   Software by You or on Your behalf.
+
+   "Layered History" refers to the complete version control history, including
+   all commits, branches, tags, and metadata.
+
+2. GRANT OF RIGHTS
+
+   Subject to the terms of this License, each contributor grants You a perpetual,
+   worldwide, non-exclusive, royalty-free license to:
+
+   a) Use, reproduce, modify, and distribute the Software
+   b) Sublicense the above rights to third parties
+   c) Access and preserve the complete Layered History
+
+3. REVERSIBILITY REQUIREMENTS
+
+   Any distribution of modified versions of the Software must:
+
+   a) Preserve the complete Layered History or provide access to it
+   b) Maintain the ability to revert to any previous version
+   c) Document changes in a version control system
+   d) Not obscure or remove historical context
+
+4. ATTRIBUTION
+
+   You must retain all copyright notices, license text, and attribution
+   information from the original Software.
+
+5. EMOTIONAL SAFETY COMMITMENT
+
+   This license includes a commitment to emotional safety in development:
+
+   a) EXPERIMENTATION: Users are encouraged to experiment freely, knowing all
+      changes can be reversed through version control.
+
+   b) NO PUNISHMENT: Contributors shall not be punished for mistakes that can
+      be reverted. Learning is valued over perfection.
+
+   c) CLEAR UNDO PATHS: All features should have clear mechanisms for reversal
+      or rollback.
+
+6. POLITICAL AUTONOMY
+
+   The Software is designed to maximize political autonomy:
+
+   a) OFFLINE OPERATION: Core features function without network dependencies
+      where technically feasible.
+
+   b) NO MANDATORY TELEMETRY: No usage data collection without explicit opt-in.
+
+   c) USER CONTROL: Users maintain full control over their data and computational
+      resources.
+
+7. CONTRIBUTION FRAMEWORK
+
+   Contributions follow the Tri-Perimeter Contribution Framework (TPCF):
+
+   a) PERIMETER 1 (Core Trust): Maintainer-only access to critical systems
+   b) PERIMETER 2 (Contributor Pipeline): Graduated access based on contribution
+      history
+   c) PERIMETER 3 (Community Sandbox): Open contribution and experimentation
+
+8. NO WARRANTY
+
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+   AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+   OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+   SOFTWARE.
+
+9. TERMINATION
+
+   This License automatically terminates if You fail to comply with its terms.
+   Upon termination, You must cease distribution of the Software.
+
+10. COMPATIBILITY
+
+    This License is designed to be compatible with major open source licenses
+    including MIT, Apache 2.0, and GPL family licenses.
+
+11. AMENDMENTS
+
+    This License may be amended with new versions. You may choose to use any
+    version of the Palimpsest License for Your modifications.
+
+12. CHOICE OF LAW
+
+    This License is governed by the laws of the jurisdiction where the original
+    copyright holder resides, without regard to conflict of law provisions.
+
+================================================================================
+ADDITIONAL NOTICES
+================================================================================
+
+THIRD-PARTY LICENSES
+
+This software incorporates components licensed under various open source
+licenses. See package.json files in each package for specific dependency
+licenses.
+
+Major dependencies include:
+- Anthropic SDK (MIT)
+- OpenAI SDK (MIT)
+- React (MIT)
+- Express (MIT)
+- TypeScript (Apache 2.0)
+
+AI TRAINING POLICY
+
+See .well-known/ai.txt for policies regarding AI training on this codebase.
+
+SECURITY POLICY
+
+See SECURITY.md for security vulnerability reporting and policies.
+
+CONTRIBUTING
+
+See docs/contributing.md for contribution guidelines.
+
+CODE OF CONDUCT
+
+See CODE_OF_CONDUCT.md for community standards and expectations.
+
+================================================================================
+LICENSE CHOICE GUIDANCE
+================================================================================
+
+WHEN TO USE MIT LICENSE:
+- You want maximum compatibility and simplicity
+- You're integrating with permissively-licensed projects
+- You need wide commercial adoption
+- Minimal restrictions preferred
+
+WHEN TO USE PALIMPSEST LICENSE:
+- You value versioning and reversibility guarantees
+- You want emotional safety commitments
+- You prioritize political autonomy features
+- You support the Tri-Perimeter Contribution Framework (TPCF)
+- You want to encourage responsible layered development
+
+BOTH LICENSES ALLOW:
+- Commercial use
+- Modification
+- Distribution
+- Private use
+- Sublicensing
+
+The choice is yours based on your values and use case.
+
+================================================================================

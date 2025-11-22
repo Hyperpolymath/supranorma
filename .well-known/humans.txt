@@ -1,0 +1,144 @@
+# humanstxt.org
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Project Lead & Chief Architect: Hyperpolymath
+    GitHub: @Hyperpolymath
+    Location: [To be specified]
+
+# THANKS
+
+    To all contributors who have made this project possible
+    To the open source community for inspiration and tools
+    To the TypeScript, React, and Node.js communities
+    To Anthropic and OpenAI for AI capabilities
+    To everyone who believes in politically autonomous software
+
+# TECHNOLOGY COLOPHON
+
+## Languages & Runtimes
+    TypeScript 5.3+
+    JavaScript (ES2022)
+    Node.js 18+
+    HTML5
+    CSS3
+
+## Frameworks & Libraries
+
+### Backend
+    Express.js 4.18
+    Drizzle ORM 0.29
+    SQLite (better-sqlite3)
+    JWT (jsonwebtoken)
+    bcryptjs for password hashing
+
+### Frontend
+    React 18.2
+    Vite 5.0
+    React Router 6.20
+    React Query (TanStack Query) 5.12
+    Zustand 4.4
+    Tailwind CSS 3.3
+
+### AI Integration
+    Anthropic SDK 0.27 (Claude)
+    OpenAI SDK 4.20 (GPT)
+    tiktoken 1.0 (token counting)
+
+### Data Processing
+    PapaParse 5.4 (CSV parsing)
+    XLSX 0.18 (Excel files)
+
+### Developer Tools
+    simple-git 3.21 (Git automation)
+    EJS 3.1 (templating)
+    globby 14.0 (file globbing)
+    execa 8.0 (command execution)
+
+### Testing & Quality
+    Vitest 1.0
+    ESLint 8.54
+    Prettier 3.1
+    Zod 3.22 (schema validation)
+
+## Build Tools
+    npm workspaces (monorepo)
+    TypeScript compiler
+    Vite (frontend bundler)
+    GitHub Actions (CI/CD)
+
+## Infrastructure
+    GitHub (version control & CI/CD)
+    npm (package registry)
+
+## Standards & Specifications
+    RFC 9116 (security.txt)
+    Semantic Versioning 2.0
+    Keep a Changelog 1.0
+    Contributor Covenant 2.1
+    CommonMark (Markdown)
+    JSON Schema
+    OpenAPI / Swagger
+
+## Design Principles
+    Type Safety First (TypeScript strict mode)
+    Async-First Architecture
+    Error Handling with Context
+    Performance Optimization (streaming, batching, lazy eval)
+    Offline-First where possible
+    Security by Default
+    Accessibility (WCAG 2.1)
+    Emotional Safety (reversibility, experimentation)
+
+## Architecture
+    Monorepo structure
+    Package-based modularity
+    Clear dependency graph
+    Dependency injection
+    Composable pipelines
+    Plugin architecture
+
+## License
+    MIT License
+    Dual-licensed with Palimpsest License v0.8 (pending)
+
+## Project Philosophy
+    Beyond Normal (Supranorma)
+    Politically Autonomous Software
+    Rhodium Standard Repository (RSR) compliant
+    Tri-Perimeter Contribution Framework (TPCF)
+    Community-driven development
+    Emotional safety in open source
+
+## Statistics (as of v0.1.0)
+    Packages: 6
+    Files: 105+
+    Lines of Code: ~8,900
+    Dependencies: 25+ (carefully selected)
+    Test Coverage: [To be measured]
+    Documentation Pages: 10+
+
+## Contact & Links
+    GitHub: https://github.com/Hyperpolymath/supranorma
+    Issues: https://github.com/Hyperpolymath/supranorma/issues
+    Documentation: https://github.com/Hyperpolymath/supranorma/tree/main/docs
+    Email: hello@supranorma.dev
+
+## Acknowledgments
+    Built with love and code
+    Standing on the shoulders of giants
+    Powered by open source
+    Made possible by the community
+
+## Last Update
+    2025-11-22
+
+                               _
+     ___ _   _ _ __  _ __ __ _| |_ __   ___  _ __ _ __ ___   __ _
+    / __| | | | '_ \| '__/ _` | | '_ \ / _ \| '__| '_ ` _ \ / _` |
+    \__ \ |_| | |_) | | | (_| | | | | | (_) | |  | | | | | | (_| |
+    |___/\__,_| .__/|_|  \__,_|_|_| |_|\___/|_|  |_| |_| |_|\__,_|
+              |_|
+
+    Beyond Normal - AI-Powered Development Tools

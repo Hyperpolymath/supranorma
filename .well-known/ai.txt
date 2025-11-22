@@ -1,0 +1,127 @@
+# AI Training and Usage Policy
+# https://github.com/Hyperpolymath/supranorma
+
+# This file declares policies for AI systems accessing this repository
+
+## Training Data Usage
+
+# AI Training: CONDITIONAL
+# Commercial AI training systems may use this code ONLY if they:
+# 1. Provide attribution to Supranorma project and contributors
+# 2. Respect the MIT license terms
+# 3. Do not use for harmful purposes
+# 4. Provide opt-out mechanisms for generated code
+
+AI-Training: conditional
+
+## Conditions for AI Training
+
+# Attribution Required
+Attribution: required
+Attribution-URL: https://github.com/Hyperpolymath/supranorma
+Attribution-Text: Based on Supranorma by Hyperpolymath (https://github.com/Hyperpolymath/supranorma)
+
+# License Compliance
+License: MIT
+License-URL: https://github.com/Hyperpolymath/supranorma/blob/main/LICENSE.txt
+
+# Harmful Use Prohibition
+Harmful-Use: prohibited
+Harmful-Use-Definition: Code generation for malware, surveillance, discrimination, or rights violation
+
+## Code Generation Policies
+
+# Generated Code Attribution
+Generated-Code-Attribution: encouraged
+# When AI generates code based on this repository, attribution is encouraged but not legally required under MIT
+
+# Generated Code License
+Generated-Code-License: MIT
+# Code generated from training on this repository should maintain MIT license compatibility
+
+## Research and Non-Commercial Use
+
+# Research Use: ALLOWED
+Research-Use: allowed
+Research-Use-Conditions: Please cite in academic publications
+
+# Non-Commercial Use: ALLOWED
+Non-Commercial-Use: allowed
+
+## Commercial Use
+
+# Commercial AI Products: ALLOWED with conditions
+Commercial-Use: conditional
+Commercial-Conditions: Must comply with MIT license, provide attribution, respect opt-out preferences
+
+## Privacy and Data Protection
+
+# No Personal Data
+Personal-Data: none
+# This repository contains no personal data
+# AI systems should not extract or memorize any accidentally committed credentials or keys
+
+# Credentials Policy
+Credentials-Policy: https://github.com/Hyperpolymath/supranorma/blob/main/SECURITY.md
+# Any credentials found should be reported as security vulnerabilities, not used for training
+
+## Opt-Out Mechanisms
+
+# Repository-Level Opt-Out
+Opt-Out-Available: yes
+Opt-Out-URL: mailto:security@supranorma.dev
+Opt-Out-Instructions: Email with subject "AI Training Opt-Out Request"
+
+## Transparency Requirements
+
+# Dataset Transparency
+Dataset-Transparency: requested
+# AI companies using this code for training should disclose:
+# - Which versions/files were used
+# - When data was collected
+# - Purpose of training
+
+# Model Cards
+Model-Cards: encouraged
+# AI models trained on this code should publish model cards describing training data sources
+
+## Ethical AI Principles
+
+# This project supports:
+# 1. Transparent AI development
+# 2. User control over their data
+# 3. Attribution and credit for open source work
+# 4. Prevention of harmful AI applications
+# 5. Fair compensation models for open source (future)
+
+## Code Generation Best Practices
+
+# When AI generates code from this repository:
+# - Include license header (MIT)
+# - Add comment crediting Supranorma
+# - Check for up-to-date dependencies
+# - Verify security best practices
+# - Test generated code thoroughly
+
+## Contact
+
+Contact: mailto:security@supranorma.dev
+Policy-URL: https://github.com/Hyperpolymath/supranorma/blob/main/SECURITY.md
+Issues-URL: https://github.com/Hyperpolymath/supranorma/issues
+
+## Updates
+
+# This policy may be updated
+# Check Canonical URL for latest version
+Canonical: https://supranorma.dev/.well-known/ai.txt
+Last-Updated: 2025-11-22
+
+## Future Considerations
+
+# We are exploring:
+# - Fair compensation models for AI training on open source
+# - More granular licensing for different AI use cases
+# - Community input on AI training policies
+# - Technical enforcement mechanisms
+
+# Your feedback welcome at: https://github.com/Hyperpolymath/supranorma/discussions

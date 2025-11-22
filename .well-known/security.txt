@@ -1,0 +1,21 @@
+# RFC 9116 security.txt
+# https://securitytxt.org/
+
+Contact: mailto:security@supranorma.dev
+Expires: 2026-11-22T00:00:00.000Z
+Preferred-Languages: en
+Canonical: https://supranorma.dev/.well-known/security.txt
+
+# Encryption
+# PGP key: [To be added]
+
+# Policy
+Policy: https://github.com/Hyperpolymath/supranorma/blob/main/SECURITY.md
+
+# Acknowledgments
+Acknowledgments: https://github.com/Hyperpolymath/supranorma/blob/main/SECURITY.md#acknowledgments
+
+# Our security policy
+# We take security seriously. Please report vulnerabilities responsibly.
+# Expected response time: 48 hours
+# Coordinated disclosure preferred

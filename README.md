@@ -2,6 +2,11 @@
 
 > Beyond Normal: A comprehensive suite of AI-powered development tools, data processing framework, and productivity utilities.
 
+[![RSR Compliant](https://img.shields.io/badge/RSR-Bronze%20(85%25)-cd7f32)](docs/rsr-compliance.md)
+[![License: MIT + Palimpsest](https://img.shields.io/badge/License-MIT%20%2B%20Palimpsest-blue.svg)](LICENSE.txt)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.3%2B-blue)](https://www.typescriptlang.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-18%2B-green)](https://nodejs.org/)
+
 ## Overview
 
 **Supranorma** is a monorepo containing multiple integrated packages designed to supercharge your development workflow:
