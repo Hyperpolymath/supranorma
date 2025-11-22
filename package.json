@@ -1,0 +1,47 @@
+{
+  "name": "supranorma",
+  "version": "0.1.0",
+  "description": "A comprehensive suite of AI-powered development tools, data processing framework, and productivity utilities",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "build": "npm run build --workspaces",
+    "test": "npm run test --workspaces",
+    "lint": "npm run lint --workspaces",
+    "dev": "npm run dev --workspaces --if-present",
+    "clean": "rm -rf node_modules packages/*/node_modules packages/*/dist",
+    "typecheck": "tsc --build",
+    "cli": "node packages/cli/dist/index.js",
+    "web": "npm run dev -w @supranorma/web-app",
+    "format": "prettier --write \"packages/**/*.{ts,tsx,js,jsx,json,md}\""
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.0",
+    "@typescript-eslint/eslint-plugin": "^6.13.0",
+    "@typescript-eslint/parser": "^6.13.0",
+    "eslint": "^8.54.0",
+    "prettier": "^3.1.0",
+    "typescript": "^5.3.2",
+    "vitest": "^1.0.4"
+  },
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=9.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Hyperpolymath/supranorma.git"
+  },
+  "keywords": [
+    "ai",
+    "developer-tools",
+    "data-processing",
+    "productivity",
+    "cli",
+    "framework"
+  ],
+  "author": "Hyperpolymath",
+  "license": "MIT"
+}
